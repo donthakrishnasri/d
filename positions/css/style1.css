@@ -1,0 +1,18 @@
+.a{
+	position: static;
+	width:100px;
+	height:100px;
+	background-color: orange;
+}
+.a1{
+	position: static;
+	width:100px;
+	height:100px;
+	background-color: yellow;
+}
+.a2{
+	position: static;
+	width:100px;
+	height:100px;
+	background-color: green;
+}

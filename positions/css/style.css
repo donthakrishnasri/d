@@ -1,0 +1,19 @@
+.a{
+	position: static;
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
+.aa{
+	position: static;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+.a1{
+	position: absolute;
+	left:108px;
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
