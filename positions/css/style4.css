@@ -1,0 +1,28 @@
+.a{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+}
+.a1{
+	position: relative;
+	left:650px;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+
+}
+.a2{
+	position: absolute;
+	top: 350px;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+
+}
+.a3{
+	position: absolute;
+	left:650px;
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}

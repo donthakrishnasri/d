@@ -1,0 +1,12 @@
+.a{
+	width: 600px;
+	height: 350px;
+	background-color: yellow;
+}
+.a1{
+	position: absolute;
+	left: 605px;
+	width: 150px;
+	height: 350px;
+	background-color: orange;
+}

@@ -1,0 +1,42 @@
+.a{
+	width: 500px;
+	height:500px;
+	background-color:orange; 
+	border: 1px solid black;
+}
+.a1{
+	position: relative;
+	left: 45px;
+	top: 45px;
+	width: 400px;
+	height:400px;
+	background-color:goldenrod; 
+	border: 1px solid black;
+}
+.a2{
+	position: relative;
+	bottom: 312px;
+	left: 95px;
+	width: 300px;
+	height:300px;
+	background-color:sandybrown; 
+	border: 1px solid black;
+}
+.a3{
+	position: relative;
+	bottom: 565px;
+	left: 144px;
+	width: 200px;
+	height:200px;
+	background-color:darkorange; 
+	border: 1px solid black;
+}
+.a4{
+	position: relative;
+	bottom: 716px;
+	left: 194px;
+	width: 100px;
+	height:100px;
+	background-color:lightsalmon; 
+	border: 1px solid black;
+}

@@ -1,0 +1,17 @@
+.a{
+	width: 800px;
+	height: 30px;
+	background-color: green; 
+}
+.a1{
+	position: relative;
+	left:40px;
+	width: 100px;
+	height: 100px;
+	background-color: pink;
+
+}
+.a2{
+	position: relative;
+	left:700px;
+}
