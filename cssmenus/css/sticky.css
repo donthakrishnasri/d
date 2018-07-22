@@ -1,0 +1,111 @@
+.main {
+	height:10%;
+	width:70%;
+	background-color: #f1f1f1;
+}
+.cont {
+	width:100%;
+	clear:both;
+}
+.left {
+	width:70%;
+	background-color: white;
+	float:left;
+	height: 70%;
+}
+.right {
+	width:30%;
+	background-color: white;
+	float:right;
+	height:70%;
+}
+#clear {
+    clear: both;
+}
+#footer {
+  background-color:grey;
+  height:10%;
+}
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#navbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 930px;
+}
+
+.sticky + .content {
+  padding-top: 40px;
+  padding-bottom:40px
+}
+
+.navbar1 {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar1 a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar1 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar1 a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.sticky1 {
+  position: fixed;
+  top: 0;
+  width: 930px;
+}
+
+.sticky1 + .content {
+  padding-top: 60px;
+}
+
+@media screen and (max-width: 400px){
+    .right {
+        width: 100%;
+    }
+    .left {
+        width: 100%;
+    }
+}
+}
